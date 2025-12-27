@@ -119,3 +119,8 @@ The focus of this project is on API design, business logic, and TDD practices, r
 Conclusion
 
 This project demonstrates a clean full-stack implementation with strong emphasis on test-driven development, maintainable code, and clear separation of concerns between backend and frontend layers.
+![SearchByCategory](https://github.com/user-attachments/assets/a6c65040-e587-42c2-8cf9-a0933040f040)
+![SearchByName](https://github.com/user-attachments/assets/f6983604-a245-4fcb-a14f-b3bc1734ccc5)
+![SearchByPriceRange](https://github.com/user-attachments/assets/9bfe6f1d-1be9-411d-8e15-17e29480f8a2)
+
+
